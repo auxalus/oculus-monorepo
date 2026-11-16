@@ -1,0 +1,32 @@
+check python version
+    python3 --version
+
+create a virtual environment
+    python3 -m venv .venv
+
+activate the environment
+    source .venv/bin/activate
+    pip install fastapi "uvicorn[standard]"
+
+check requirements here 
+    pip freeze > requirements.txt
+
+        To install the recorded dependencies on another machine, run:
+            pip install -r requirements.txt
+
+
+run the app
+    uvicorn app.main:app --reload
+            
+app structure:
+
+student-api/
+│
+├── .venv/
+│
+├── app/
+│ ├── __init__.py
+│ └── main.py
+│
+├── .gitignore
+└── requirements.txt

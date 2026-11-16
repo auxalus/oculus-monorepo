@@ -1,0 +1,23 @@
+What is a frontend?
+The frontend is the part of an application that users can see and interact with.
+Frontend technologies include HTML, CSS, JavaScript, React and Flutter.
+
+What is a backend?
+The backend is the part of an application that works behind the scenes.
+It receives requests, checks information, performs calculations, applies rules and
+communicates with databases.
+
+What is a database?
+A database is a system used to store and manage information.
+
+API stands for Application Programming Interface.
+An API is an interface that allows one software application or component to communicate
+with another according to defined rules.
+
+What is a client?
+A client is the application or tool that sends a request to a server.
+
+What is a server?
+A server is a computer or software application that receives requests and provides
+responses or services.
+
