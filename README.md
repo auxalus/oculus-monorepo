@@ -12,7 +12,7 @@
 
 clone the project into your current folder then install the dependencies 
 
-'''python
+~~~python
 pip install -r requirements.txt
-'''
+~~~
 
